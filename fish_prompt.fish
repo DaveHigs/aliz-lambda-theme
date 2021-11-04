@@ -36,7 +36,7 @@ function fish_prompt
   set -l orange (set_color F0544C)
   set -l hotpink (set_color F75E4F)
   set -l blue (set_color blue)
-  set -l limegreen (set_color F0544C)
+  set -l limegreen (set_color F8716A)
   set -l purple (set_color af5fff)
  
   # Configure __fish_git_prompt
